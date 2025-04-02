@@ -1,0 +1,3 @@
+Player C	250000
+Player B	Null
+Player A	550000
