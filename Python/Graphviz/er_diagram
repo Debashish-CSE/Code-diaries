@@ -1,0 +1,20 @@
+digraph ER {
+	rankdir=LR size=8
+	Student [shape=rectangle]
+	S_ID [label=id shape=ellipse]
+	S_Name [label=name shape=ellipse]
+	Student -> S_ID
+	Student -> S_Name
+	Course [shape=rectangle]
+	C_ID [label=code shape=ellipse]
+	C_Title [label=title shape=ellipse]
+	Course -> C_ID
+	Course -> C_Title
+	Enrolls [shape=diamond]
+	Student -> Enrolls
+	Enrolls -> Course
+	Date [label=date shape=ellipse]
+	Grade [label=grade shape=ellipse]
+	Enrolls -> Date
+	Enrolls -> Grade
+}
