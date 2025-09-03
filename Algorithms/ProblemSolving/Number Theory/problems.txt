@@ -1,0 +1,5 @@
+1. Three divisors(Fermat's) -> https://leetcode.com/problems/three-divisors/description/
+2. Super pow(mod) -> https://leetcode.com/problems/super-pow/
+3. Count Good Numbers(mod is used) -> https://leetcode.com/problems/count-good-numbers/description/
+4. POW(x, n) -> https://leetcode.com/problems/powx-n/description/
+5. Double Modular Exponentiation -> https://leetcode.com/problems/double-modular-exponentiation/description/
