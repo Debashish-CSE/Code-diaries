@@ -1,4 +1,6 @@
-# Code Diaries &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://www.emojiall.com/images/240/skype/1f468-200d-1f4bb.png" alt="coder emoji" width="80" style="vertical-align:middle;margin-bottom:3px;"/>
+<img src="https://www.emojiall.com/images/240/skype/1f468-200d-1f4bb.png" alt="coder emoji" width="80" style="vertical-align:left;margin-bottom:3px;"/>
+
+# Code Diaries 
 
 Welcome to **Code Diaries** — a personal collection of my coding exercises, assignments, and projects completed during my university studies. This repository is organized by programming language and course.
 
