@@ -36,7 +36,7 @@ public:
 
             for (int neighbor : adjList[vertex]) {
                 if (!visited[neighbor]) {
-                    visited[neighbor] = true;
+                    visited[neighbor] = true; //if neighbouring vertices of vertex is not already visited, then push it in the visited queue
                     q.push(neighbor);
                 }
             }
