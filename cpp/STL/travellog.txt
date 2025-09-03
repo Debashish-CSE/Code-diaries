@@ -1,0 +1,7 @@
+alice USA NewYork
+bob France Paris
+alice France Paris
+charlie USA NewYork
+alice USA NewYork
+alice USA Boston
+bob USA NewYork

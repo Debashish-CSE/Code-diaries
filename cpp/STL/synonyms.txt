@@ -1,0 +1,3 @@
+happy,joyful,glad
+sad,unhappy,depressed
+fast,quick, rapid
