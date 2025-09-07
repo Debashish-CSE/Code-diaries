@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Ford-Fulkerson algorithm - Maximum flow in a flow network
+// Ford-Fulkerson algorithm - Maximum flow in a network
 
 bool bfs(vector<vector<int>> &rGraph, int s, int t, vector<int> &parent) {
     int V = rGraph.size();
