@@ -19,7 +19,7 @@ void floydWarshall(vector<vector<int>> &dist, int n) {
 
 int main() {
     int n, m;
-    cout << "Enter number of vertices : ";
+    cout << "Enter number of vertices and edges: ";
     cin >> n >> m;
 
     vector<vector<int>> dist(n, vector<int>(n, INF));
