@@ -64,7 +64,8 @@ Here is the hierarchical structure of the repository:
 │   ├── 📁 Graphviz/
 │   ├── 📁 Matplotlib/
 │   ├── 📁 NumPy/
-│   └── 📁 Pandas/
+│   ├── 📁 Pandas/
+│   └── 📁 Numerical Lab/
 │
 ├── 📂 R_data_visualization/
 │   │
