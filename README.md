@@ -104,7 +104,7 @@ Here is the hierarchical structure of the repository:
   Lab work and solutions from structured problem-solving sessions. Includes categorized problems and exam preparations, often referencing platforms like CodeForces and LeetCode. Languages used may include C, C++, and Python.
 
 - **Python**  
-  Python scripts and notebooks for coursework, assignments, and data analysis. Topics include basic programming, data visualization, scientific libraries (NumPy, Pandas, Matplotlib), and automation.
+  Python scripts and notebooks for coursework, assignments, and data analysis. Topics include basic programming, data visualization, scientific libraries (NumPy, Pandas, Matplotlib), numerical methods and automation.
 
 - **R_data_visualization**  
   Scripts, projects, and notes related to data visualization using R. Covers practical coursework in data manipulation, plotting, and exploratory data analysis.
