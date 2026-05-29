@@ -17,11 +17,13 @@ core*
 *.pyc
 *.pyo
 __pycache__/
+
 # Ignore Python virtual environments
 venv/
 .venv/
 env/
 .env/
+
 # Ignore R-specific files
 .Rhistory
 .Rapp.history
