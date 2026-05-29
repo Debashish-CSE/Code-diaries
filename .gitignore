@@ -63,3 +63,9 @@ Thumbs.db
 # Ignore backup files
 *.bak
 *.tmp
+# Ignore archive files
+*.tar.gz
+*.tar
+*.zip
+*.rar
+*.7z
