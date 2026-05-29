@@ -6,21 +6,22 @@
 *.exe
 *.obj
 *.dll
-
 # Ignore core dump files
 core*
 *.core
-
 # Ignore Java class files and log files
 *.class
 *.log
 *.jar
-
 # Ignore Python bytecode
 *.pyc
 *.pyo
 __pycache__/
-
+# Ignore Python virtual environments
+venv/
+.venv/
+env/
+.env/
 # Ignore R-specific files
 .Rhistory
 .Rapp.history
@@ -28,7 +29,6 @@ __pycache__/
 .Ruserdata
 *.rds
 *.Rproj.user
-
 # Ignore LaTeX auxiliary files
 *.aux
 *.bbl
@@ -49,18 +49,15 @@ __pycache__/
 *.glo
 *.gls
 *.ist
-
 # Ignore IDE/editor specific files
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
-
 # Ignore system files
 .DS_Store
 Thumbs.db
-
 # Ignore backup files
 *.bak
 *.tmp
