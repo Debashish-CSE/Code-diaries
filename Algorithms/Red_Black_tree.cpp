@@ -18,7 +18,8 @@ struct RBTree{
         if(y->left) y->left->parent=x;
         y->parent=x->parent;
         if(!x->parent) root=y;
-        else if(x==x->parent->left) x->parent->left=y; else x->parent->right=y;
+        else if(x==x->parent->left) x->parent->left=y; 
+        else x->parent->right=y;
         y->left=x; x->parent=y;
     }
     void rotateRight(Node* y){

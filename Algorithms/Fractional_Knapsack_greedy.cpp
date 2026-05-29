@@ -8,7 +8,7 @@ double fractionalKnapsack(vector<Item> a, double W){
     double v=0;
 
     for(auto& it: a){
-        if(W<=0) break;
+        if(W <= 0) break;
         if(it.weight <= W){ v += it.value; W -= it.weight; }
         else { v += it.value * (W/it.weight); W = 0; }
     }
