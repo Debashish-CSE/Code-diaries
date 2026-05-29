@@ -18,6 +18,8 @@ Here is the hierarchical structure of the repository:
 │   │
 │   └── 📁 ProblemSolving/
 │
+├── 📂 AssemblyCode/
+│
 ├── 📂 C/
 │
 ├── 📂 cpp/
@@ -41,8 +43,6 @@ Here is the hierarchical structure of the repository:
 │   ├── 📁 .metadata/
 │   ├── 📁 FirstClass2/
 │   └── 📁 Java_theory/
-│
-├── 📂 OOP_slides_(C++)/
 │
 ├── 📂 PS_lab/
 │   │
@@ -72,6 +72,8 @@ Here is the hierarchical structure of the repository:
 │   ├── 📁 Notes/
 │   └── 📁 RProgrammingPractice/
 │
+├── 📂 SQL/ 
+│
 ├── 📄 Problem_Solving.docx
 ├── 📄 .gitignore
 ├── 📄 LICENSE
@@ -81,6 +83,9 @@ Here is the hierarchical structure of the repository:
 
 - **Algorithms**  
   Contains implementations of classic and advanced algorithms, focusing on topics like number theory, graph algorithms, mathematical techniques, and problem-solving strategies. Most code is in C++.
+
+- **AssemblyCode**  
+  Low-level programming examples and assembly language experiments. Covers instruction sets, memory management, and system-level programming concepts.
 
 - **C**  
   Coursework, assignments, and experiments in C programming. Covers fundamental programming constructs, pointer manipulation, file operations, and a variety of algorithmic challenges using C.
@@ -94,9 +99,6 @@ Here is the hierarchical structure of the repository:
 - **Java**  
   Java programming assignments, projects, and theoretical explorations. Covers OOP, Java-specific libraries, class design, and coursework relevant to software engineering and application development.
 
-- **OOP_slides_(C++)**  
-  Notes, lecture slides, and example code centered around Object-Oriented Programming concepts using C++. Useful for reference and revision on OOP principles, inheritance, polymorphism, and related patterns.
-
 - **PS_lab**  
   Material from the Problem Solving Lab, including coding exercises and supporting resources. Focuses on algorithmic thinking and practical problem-solving skills, mainly using C and C++.
 
@@ -108,6 +110,9 @@ Here is the hierarchical structure of the repository:
 
 - **R_data_visualization**  
   Scripts, projects, and notes related to data visualization using R. Covers practical coursework in data manipulation, plotting, and exploratory data analysis.
+
+- **SQL**  
+  Database programming and SQL scripts. Covers query optimization, stored procedures, database design, and practical coursework in data management and manipulation.
 
 - **Problem_Solving.docx**  
   Supplementary notes and documentation on problem-solving approaches, strategies, and techniques used throughout coursework and lab exercises.
