@@ -1,0 +1,19 @@
+  	Date 	Versus 	Ground 	How Dismissed 	Runs 	B/F 	S/R 	  	Aggr 	Avg 	S/R
+1 	18/02/2015 	Afghanistan 	Manuka Oval 	c Samiullah Shinwari b Mohammad Nabi 	71 	56 	126.79 	  	71 	71.00 	126.79
+2 	26/02/2015 	Sri Lanka 	Melbourne Cricket Ground 	b R A S Lakmal 	36 	39 	92.31 	  	107 	53.50 	112.63
+3 	04/03/2015 	Scotland 	Saxton Oval 	c C S MacLeod b A C Evans 	60 	42 	142.86 	  	167 	55.67 	121.90
+4 	09/03/2015 	England 	Adelaide Oval 	c C J Jordan b S C J Broad 	89 	77 	115.58 	  	256 	64.00 	119.63
+5 	13/03/2015 	New Zealand 	Seddon Park 	c †L Ronchi b C J Anderson 	15 	25 	60.00 	  	271 	54.20 	113.39
+6 	19/03/2015 	India 	Melbourne Cricket Ground 	c †M S Dhoni b U T Yadav 	27 	43 	62.79 	  	298 	49.67 	105.67
+7 	17/04/2015 	Pakistan 	Shere Bangla National Stadium 	c †Sarfraz Ahmed b Wahab Riaz 	106 	77 	137.66 	  	404 	57.71 	112.53
+8 	19/04/2015 	Pakistan 	Shere Bangla National Stadium 	c Fawad Alam b Rahat Ali 	65 	70 	92.86 	  	469 	58.63 	109.32
+9 	22/04/2015 	Pakistan 	Shere Bangla National Stadium 	not out 	49* 	43 	113.95 	  	518 	64.75 	109.75
+10 	18/06/2015 	India 	Shere Bangla National Stadium 	c R G Sharma b R Ashwin 	14 	19 	73.68 	  	532 	59.11 	108.35
+11 	21/06/2015 	India 	Shere Bangla National Stadium 	run out 	31 	34 	91.18 	  	563 	56.30 	107.24
+12 	24/06/2015 	India 	Shere Bangla National Stadium 	c †M S Dhoni b S K Raina 	24 	30 	80.00 	  	587 	53.36 	105.77
+13 	10/07/2015 	South Africa 	Shere Bangla National Stadium 	c Imran Tahir b J-P Duminy 	24 	38 	63.16 	  	611 	50.92 	103.04
+14 	12/07/2015 	South Africa 	Shere Bangla National Stadium 	did not bat 	- 	- 	- 	  	611 	50.92 	103.04
+15 	15/07/2015 	South Africa 	Zahur Ahmed Chowdhury Stadium 	did not bat 	- 	- 	- 	  	611 	50.92 	103.04
+16 	07/11/2015 	Zimbabwe 	Shere Bangla National Stadium 	run out 	107 	109 	98.17 	  	718 	55.23 	102.28
+17 	09/11/2015 	Zimbabwe 	Shere Bangla National Stadium 	c L M Jongwe b A G Cremer 	21 	28 	75.00 	  	739 	52.79 	101.23
+18 	11/11/2015 	Zimbabwe 	Shere Bangla National Stadium 	st R W Chakabva b M N Waller 	28 	25 	112.00 	  	767 	51.13 	101.59 

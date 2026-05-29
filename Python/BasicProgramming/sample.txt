@@ -1,0 +1,7 @@
+Name    ODI    Test
+Tamim    30    35
+Mushi    40    30
+Mahmud    10    30
+Tamim    10    20
+Tamim    30    60
+Mahmud    100    10

@@ -1,0 +1,18 @@
+1 	18/02/2015 	Afghanistan 	Manuka Oval 	c †Afsar Zazai b Mirwais Ashraf 	19 	42 	45.24 	  	19 	19.00 	45.24
+2 	26/02/2015 	Sri Lanka 	Melbourne Cricket Ground 	b S L Malinga 	0 	2 	0.00 	  	19 	9.50 	43.18
+3 	04/03/2015 	Scotland 	Saxton Oval 	lbw b J H Davey 	95 	100 	95.00 	  	114 	38.00 	79.17
+4 	09/03/2015 	England 	Adelaide Oval 	c J E Root b J M Anderson 	2 	7 	28.57 	  	116 	29.00 	76.82
+5 	13/03/2015 	New Zealand 	Seddon Park 	c C J Anderson b T A Boult 	13 	27 	48.15 	  	129 	25.80 	72.47
+6 	19/03/2015 	India 	Melbourne Cricket Ground 	c †M S Dhoni b U T Yadav 	25 	25 	100.00 	  	154 	25.67 	75.86
+7 	17/04/2015 	Pakistan 	Shere Bangla National Stadium 	c Mohammad Rizwan b Wahab Riaz 	132 	135 	97.78 	  	286 	40.86 	84.62
+8 	19/04/2015 	Pakistan 	Shere Bangla National Stadium 	not out 	116* 	116 	100.00 	  	402 	57.43 	88.55
+9 	22/04/2015 	Pakistan 	Shere Bangla National Stadium 	lbw b Junaid Khan 	64 	76 	84.21 	  	466 	58.25 	87.92
+10 	18/06/2015 	India 	Shere Bangla National Stadium 	c R G Sharma b R Ashwin 	60 	62 	96.77 	  	526 	58.44 	88.85
+11 	21/06/2015 	India 	Shere Bangla National Stadium 	c S Dhawan b D S Kulkarni 	13 	21 	61.90 	  	539 	53.90 	87.93
+12 	24/06/2015 	India 	Shere Bangla National Stadium 	lbw b D S Kulkarni 	5 	8 	62.50 	  	544 	49.45 	87.60
+13 	10/07/2015 	South Africa 	Shere Bangla National Stadium 	b K Rabada 	0 	13 	0.00 	  	544 	45.33 	85.80
+14 	12/07/2015 	South Africa 	Shere Bangla National Stadium 	b K Rabada 	5 	7 	71.43 	  	549 	42.23 	85.65
+15 	15/07/2015 	South Africa 	Zahur Ahmed Chowdhury Stadium 	not out 	61* 	77 	79.22 	  	610 	46.92 	84.96
+16 	07/11/2015 	Zimbabwe 	Shere Bangla National Stadium 	c L M Jongwe b Sikandar Raza 	40 	68 	58.82 	  	650 	46.43 	82.70
+17 	09/11/2015 	Zimbabwe 	Shere Bangla National Stadium 	c †R W Chakabva b T Panyangara 	19 	25 	76.00 	  	669 	44.60 	82.49
+18 	11/11/2015 	Zimbabwe 	Shere Bangla National Stadium 	st R W Chakabva b A G Cremer 	73 	98 	74.49 	  	742 	46.38 	81.63 

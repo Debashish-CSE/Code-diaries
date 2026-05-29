@@ -1,0 +1,15 @@
+   	Date 	Versus 	Ground 	How Dismissed 	Runs 	B/F 	S/R 	  	Aggr 	Avg 	S/R
+1 	25/03/2017 	Sri Lanka 	Rangiri Dambulla International Stadium 	c & b P A D L R Sandakan 	1 	2 	50.00 	  	1 	1.00 	50.00
+2 	28/03/2017 	Sri Lanka 	Rangiri Dambulla International Stadium 	did not bat 	- 	- 	- 	  	1 	1.00 	50.00
+3 	01/04/2017 	Sri Lanka 	Sinhalese Sports Club Ground 	lbw b R A S Lakmal 	0 	1 	0.00 	  	1 	0.50 	33.33
+4 	12/05/2017 	Ireland 	The Village 	c G C Wilson b B J McCarthy 	13 	17 	76.47 	  	14 	4.67 	70.00
+5 	17/05/2017 	New Zealand 	Clontarf Cricket Club Ground 	c †L Ronchi b J D S Neesham 	55 	66 	83.33 	  	69 	17.25 	80.23
+6 	19/05/2017 	Ireland 	The Village 	not out 	3* 	7 	42.86 	  	72 	18.00 	77.42
+7 	24/05/2017 	New Zealand 	Clontarf Cricket Club Ground 	not out 	45* 	45 	100.00 	  	117 	29.25 	84.78
+8 	01/06/2017 	England 	Kennington Oval 	c A D Hales b L E Plunkett 	79 	72 	109.72 	  	196 	39.20 	93.33
+9 	05/06/2017 	Australia 	Kennington Oval 	lbw b M C Henriques 	9 	20 	45.00 	  	205 	34.17 	89.13
+10 	09/06/2017 	New Zealand 	Sophia Gardens 	b A F Milne 	14 	34 	41.18 	  	219 	31.29 	82.95
+11 	15/06/2017 	India 	Edgbaston 	c V Kohli b K M Jadhav 	61 	85 	71.76 	  	280 	35.00 	80.23
+12 	15/10/2017 	South Africa 	Diamond Oval 	not out 	110* 	116 	94.83 	  	390 	48.75 	83.87
+13 	18/10/2017 	South Africa 	Boland Park 	c J-P Duminy b D Pretorius 	60 	70 	85.71 	  	450 	50.00 	84.11
+14 	22/10/2017 	South Africa 	Buffalo Park 	c K Rabada b A L Phehlukwayo 	8 	21 	38.10 	  	458 	45.80 	82.37

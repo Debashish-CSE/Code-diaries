@@ -1,0 +1,8 @@
+  	Date 	Versus 	Ground 	How Dismissed 	Runs 	B/F 	S/R 	  	Aggr 	Avg 	S/R
+1 	25/09/2016 	Afghanistan 	Shere Bangla National Stadium 	b Rashid Khan 	6 	7 	85.71 	  	6 	6.00 	85.71
+2 	28/09/2016 	Afghanistan 	Shere Bangla National Stadium 	c Naveen -ul-Haq b Rahmat Shah 	38 	51 	74.51 	  	44 	22.00 	75.86
+3 	01/10/2016 	Afghanistan 	Shere Bangla National Stadium 	lbw b Rashid Khan 	12 	13 	92.31 	  	56 	18.67 	78.87
+4 	07/10/2016 	England 	Shere Bangla National Stadium 	c sub b A U Rashid 	12 	12 	100.00 	  	68 	17.00 	81.93
+5 	09/10/2016 	England 	Shere Bangla National Stadium 	c M M Ali b J T Ball 	crap-data 	23 	91.30 	  	89 	17.80 	83.96
+6 	12/10/2016 	England 	Zahur Ahmed Chowdhury Stadium 	not out 	67* 	62 	108.06 	  	156 	31.20 	92.86
+7 	26/12/2016 	New Zealand 	Hagley Oval 	retired hurt 	42* 	48 	87.50 	  	198 	39.60 	91.67 

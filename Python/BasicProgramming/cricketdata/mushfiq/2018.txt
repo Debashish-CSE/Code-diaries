@@ -1,0 +1,20 @@
+ 	Date 	Versus 	Ground 	How Dismissed 	Runs 	B/F 	S/R 	  	Aggr 	Avg 	S/R
+1 	15/01/2018 	Zimbabwe 	Shere Bangla National Stadium 	not out 	14* 	23 	60.87 	  	14 	  	60.87
+2 	19/01/2018 	Sri Lanka 	Shere Bangla National Stadium 	b N L T C Perera 	62 	52 	119.23 	  	76 	76.00 	101.33
+3 	23/01/2018 	Zimbabwe 	Shere Bangla National Stadium 	lbw b A G Cremer 	18 	25 	72.00 	  	94 	47.00 	94.00
+4 	25/01/2018 	Sri Lanka 	Shere Bangla National Stadium 	c B K G Mendis b P V D Chameera 	26 	56 	46.43 	  	120 	40.00 	76.92
+5 	27/01/2018 	Sri Lanka 	Shere Bangla National Stadium 	c W U Tharanga b A Dananjaya 	22 	40 	55.00 	  	142 	35.50 	72.45
+6 	22/07/2018 	West Indies 	Providence Stadium 	c D Bishoo b A D Russell 	30 	11 	272.73 	  	172 	34.40 	83.09
+7 	25/07/2018 	West Indies 	Providence Stadium 	c K M A Paul b J O Holder 	68 	67 	101.49 	  	240 	40.00 	87.59
+8 	28/07/2018 	West Indies 	Warner Park 	b A R Nurse 	12 	14 	85.71 	  	252 	36.00 	87.50
+9 	15/09/2018 	Sri Lanka 	Dubai International Cricket Stadium 	c B K G Mendis b N L T C Perera 	144 	150 	96.00 	  	396 	49.50 	90.41
+10 	21/09/2018 	India 	Dubai International Cricket Stadium 	c Y S Chahal b R A Jadeja 	21 	45 	46.67 	  	417 	46.33 	86.34
+11 	23/09/2018 	Afghanistan 	Sheikh Zayed Stadium 	run out 	33 	52 	63.46 	  	450 	45.00 	84.11
+12 	26/09/2018 	Pakistan 	Sheikh Zayed Stadium 	c †Sarfraz Ahmed b Shaheen Shah Afridi 	99 	116 	85.34 	  	549 	49.91 	84.33
+13 	28/09/2018 	India 	Dubai International Cricket Stadium 	c J J Bumrah b K M Jadhav 	5 	9 	55.56 	  	554 	46.17 	83.94
+14 	21/10/2018 	Zimbabwe 	Shere Bangla National Stadium 	c †B R M Taylor b B A Mavuta 	15 	20 	75.00 	  	569 	43.77 	83.68
+15 	24/10/2018 	Zimbabwe 	Zahur Ahmed Chowdhury Stadium 	not out 	40* 	52 	76.92 	  	609 	46.85 	83.20
+16 	26/10/2018 	Zimbabwe 	Zahur Ahmed Chowdhury Stadium 	not out 	28* 	39 	71.79 	  	637 	49.00 	82.62
+17 	09/12/2018 	West Indies 	Shere Bangla National Stadium 	not out 	55* 	70 	78.57 	  	692 	53.23 	82.28
+18 	11/12/2018 	West Indies 	Shere Bangla National Stadium 	c †S D Hope b O R Thomas 	62 	80 	77.50 	  	754 	53.86 	81.87
+19 	14/12/2018 	West Indies 	Sylhet Stadium 	not out 	16* 	14 	114.29 	  	770 	55.00 	82.35 

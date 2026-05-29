@@ -1,0 +1,4 @@
+	Date 	Versus 	Ground 	How Dismissed 	Runs 	B/F 	S/R 	  	Aggr 	Avg 	S/R
+1 	13/02/2019 	New Zealand 	McLean Park 	b T A Boult 	5 	14 	35.71 	  	5 	5.00 	35.71
+2 	16/02/2019 	New Zealand 	Hagley Oval 	b L H Ferguson 	24 	36 	66.67 	  	29 	14.50 	58.00
+3 	20/02/2019 	New Zealand 	University Oval 	c C Munro b T A Boult 	17 	27 	62.96 	  	46 	15.33 	59.74 
